@@ -275,6 +275,14 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+# Visual Studio config folder
+.vscode
+.env
+
+# Cypress
+cypress.env.json
+cypress/**/screenshots
+
 # Visual Studio 6 build log
 *.plg
 
